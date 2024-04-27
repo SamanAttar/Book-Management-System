@@ -128,11 +128,14 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>View</actionName>
-        <type>Default</type>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Author</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>View</actionName>
-        <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -156,7 +159,7 @@
     <label>Author</label>
     <nameField>
         <displayFormat>A-{0000}</displayFormat>
-        <label>Author Name</label>
+        <label>Author Number</label>
         <trackHistory>false</trackHistory>
         <type>AutoNumber</type>
     </nameField>
