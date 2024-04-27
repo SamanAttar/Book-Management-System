@@ -11,3 +11,4 @@ global class LogUtils {
     }
 
 }
+

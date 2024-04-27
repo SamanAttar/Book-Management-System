@@ -2,11 +2,19 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Book Manager App",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
     }
   ],
   "name": "book-manager-app",
-  "namespace": "",
+  "namespace": "CAMPX",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0"
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "Book Manager App": "0Ho8a000000KyzHCAS",
+    "Book Manager App@0.1.0-2": "04t8a000001JoReAAK"
+  }
 }
