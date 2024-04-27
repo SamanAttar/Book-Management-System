@@ -125,9 +125,7 @@
     <relatedLists>
         <fields>NAME</fields>
         <fields>Description__c</fields>
-        <fields>AverageRating__c</fields>
         <fields>MostActiveAuthor__c</fields>
-        <fields>MonthlyPublicationCount__c</fields>
         <relatedList>Genre__c.LatestPublishedBook__c</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
