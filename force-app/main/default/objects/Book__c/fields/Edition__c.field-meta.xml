@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Edition__c</fullName>
+    <externalId>false</externalId>
+    <label>Edition</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1st Edition</fullName>
+                <default>false</default>
+                <label>1st Edition</label>
+            </value>
+            <value>
+                <fullName>2nd Edition</fullName>
+                <default>false</default>
+                <label>2nd Edition</label>
+            </value>
+            <value>
+                <fullName>3rd Edition</fullName>
+                <default>false</default>
+                <label>3rd Edition</label>
+            </value>
+            <value>
+                <fullName>4th Edition</fullName>
+                <default>false</default>
+                <label>4th Edition</label>
+            </value>
+            <value>
+                <fullName>5th Edition</fullName>
+                <default>false</default>
+                <label>5th Edition</label>
+            </value>
+            <value>
+                <fullName>6th Edition</fullName>
+                <default>false</default>
+                <label>6th Edition</label>
+            </value>
+            <value>
+                <fullName>Revised Edition</fullName>
+                <default>false</default>
+                <label>Revised Edition</label>
+            </value>
+            <value>
+                <fullName>Special Edition</fullName>
+                <default>false</default>
+                <label>Special Edition</label>
+            </value>
+            <value>
+                <fullName>Collector&apos;s Edition</fullName>
+                <default>false</default>
+                <label>Collector&apos;s Edition</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

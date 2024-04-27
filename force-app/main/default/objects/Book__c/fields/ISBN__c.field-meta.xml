@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ISBN__c</fullName>
+    <caseSensitive>false</caseSensitive>
+    <description>The International Standard Book Number, which is a unique identifier for books.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The International Standard Book Number, which is a unique identifier for books.</inlineHelpText>
+    <label>ISBN</label>
+    <length>17</length>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>

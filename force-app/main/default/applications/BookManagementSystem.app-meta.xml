@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Camp Apex&apos;s Book Management System for learning DML &amp; Triggers.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Book Management System</label>
+    <navType>Standard</navType>
+    <tabs>Book__c</tabs>
+    <tabs>Publisher__c</tabs>
+    <tabs>Author__c</tabs>
+    <tabs>Publication__c</tabs>
+    <tabs>Genre__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Book_Management_System_UtilityBar</utilityBar>
+</CustomApplication>
