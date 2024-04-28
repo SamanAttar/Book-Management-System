@@ -157,7 +157,7 @@
     <label>Publication</label>
     <nameField>
         <displayFormat>P-{0000}</displayFormat>
-        <label>Publication Name</label>
+        <label>Publication Number</label>
         <trackHistory>false</trackHistory>
         <type>AutoNumber</type>
     </nameField>
